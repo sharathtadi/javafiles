@@ -3,7 +3,7 @@ package nestedconditions;
 public class Nestedconditions {
 
 	public static void main(String[] args) {
-		int a=50;
+		int a=60;
 		int b=40;
 		int c=30;
 if(a>b & a>c)
